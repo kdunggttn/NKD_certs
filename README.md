@@ -1,2 +1,2 @@
 # NKD_certs
-Where I store all my certs
+Where I store all my certificates
